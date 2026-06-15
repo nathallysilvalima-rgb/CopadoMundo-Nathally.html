@@ -16,11 +16,11 @@
   <table id="tabela">
     
    <tr><th>Seleção</th><th>Probabilidade (%)</th></tr>
-   <tr><td><input type="text" value="Brasil"></td><td><input type="number"value="25"></td></tr>
-   <tr><td><input type="text" value="Argentina"></td><td><input type="number"value="25"></td></tr>
-   <tr><td><input type="text" value="França"></td><td><input type="number"value="20"></td></tr>
-   <tr><td><input type="text" value="Alemanha"></td><td><input type="number"value="15"></td></tr>
-   <tr><td><input type="text" value="Portugal"></td><td><input type="number"value="10"></td></tr>
+   <tr><td><input type="text" value="Brasil"></td><td><input type = "number"value = "25"></td></tr>
+   <tr><td><input type="text" value="Argentina"></td><td><input type = "number"value = "25"></td></tr>
+   <tr><td><input type="text" value="França"></td><td><input type = "number"value = "20"></td></tr>
+   <tr><td><input type="text" value="Alemanha"></td><td><input type = "number"value = "15"></td></tr>
+   <tr><td><input type="text" value="Portugal"></td><td><input type = "number"value = "10"></td></tr>
 </table>
 
 <button onclick="simular()">Simular Copa</button>
